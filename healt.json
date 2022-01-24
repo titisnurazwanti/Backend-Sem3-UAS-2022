@@ -1,0 +1,535 @@
+{
+    "header"    : [
+        {
+            "top"   : [
+                {
+                    "logo"  : {
+                        "text"  : "Meranda",
+                        "href"  : "index.html"
+                    }
+                },
+                {
+                    "facebook"  : {
+                        "icon-name" : "icon-facebook",
+                        "href"      : "https://facebook.com/meranda/"
+                    },
+                    "twitter"   : {
+                        "icon-name" : "icon-twitter",
+                        "href"      : "https://twitter.com/meranda/"
+                    },
+                    "instagram" : {
+                        "icon-name" : "icon-instagram",
+                        "href"      : "https://instagram.com/meranda/"
+                    }
+                },
+                {
+                    "email" : [
+                        {
+                            "type"          : "email-box-search",
+                            "placeholder"   : "Search.."
+                        },
+                        {
+                            "type"      : "button-search-email",
+                            "icon-name" : "icon-search"
+                        }
+                    ]
+                }
+
+            ],
+            "main"  : [
+                {
+                    "home"  : {
+                        "text"  : "HOME",
+                        "href"  : "index.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/index.html"
+                    },
+                    "categories": {
+                        "text"  : "CATEGORIES",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "politics": {
+                        "text"  : "POLITICS",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "business": {
+                        "text"  : "BUSINESS",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "health": {
+                        "text"  : "HEALTH",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "design": {
+                        "text"  : "DESIGN",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "sport": {
+                        "text"  : "SPORT",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "contact": {
+                        "text"  : "CONTACT",
+                        "href"  : "contact.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/contact.html"
+                    }
+                }
+            ]
+        }
+    ],
+    "body"  : [
+        {
+            "categories"    : [
+                {
+                    "kiri"  : [
+                        {
+                            "politics"  : [
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_4.jpg.pagespeed.ic.peEd0nw2Ox.webp"
+                                    }
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_3.jpg.pagespeed.ic.YQVX6P0g2G.webp"
+                                    }   
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_1.jpg.pagespeed.ic.IUFbLUay1G.webp"
+                                    }
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_4.jpg.pagespeed.ic.peEd0nw2Ox.webp"
+                                    }
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_3.jpg.pagespeed.ic.YQVX6P0g2G.webp"
+                                    }   
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_1.jpg.pagespeed.ic.IUFbLUay1G.webp"
+                                    }
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_4.jpg.pagespeed.ic.peEd0nw2Ox.webp"
+                                    }
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_3.jpg.pagespeed.ic.YQVX6P0g2G.webp"
+                                    }   
+                                },
+                                {
+                                    "pic-desc"  : {
+                                        "judul"     : {
+                                            "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                        },
+                                        "descripton"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi temporibus praesentium neque, voluptatum quam quibusdam.",
+                                        "des-picture"   : {
+                                            "aktor"     : {
+                                                "name"  : "Dave Rogers",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "text"      : "in",
+                                            "topic"     : {
+                                                "text"  : "News",
+                                                "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                            },
+                                            "date"  : {
+                                                "date-read" : "Jun 14",
+                                                "titik"     : "•",
+                                                "des-date"  : "3 min read",
+                                                "icon"      : "icon-star2"
+                                            }
+                                        }
+                                    },
+                                    "picture"   : {
+                                        "name"  : "thumbnail order-md-2",
+                                        "url"   : "images/ximg_h_1.jpg.pagespeed.ic.IUFbLUay1G.webp"
+                                    }
+                                }
+                            ],
+                            "button"    : [
+                                {
+                                    "no"            : "1",
+                                    "href"          : "https://preview.colorlib.com/theme/meranda/index.html#",
+                                    "active-page"   : "off"
+                                },
+                                {
+                                    "no"            : "2",
+                                    "href"          : "https://preview.colorlib.com/theme/meranda/index.html#",
+                                    "active-page"   : "on"
+                                },
+                                {
+                                    "no"            : "3",
+                                    "href"          : "https://preview.colorlib.com/theme/meranda/index.html#",
+                                    "active-page"   : "off"
+                                },
+                                {
+                                    "no"            : "4",
+                                    "href"          : "https://preview.colorlib.com/theme/meranda/index.html#",
+                                    "active-page"   : "off"
+                                }
+                            ]
+                        }   
+                    ]
+                },
+                {
+                    "kanan" :[
+                        {
+                            "popular posts" : [
+                                {
+                                    "number"    : "01",
+                                    "judul"     : {
+                                        "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                        "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                    },
+                                    "description"   : {
+                                        "aktor"     : {
+                                            "name"  : "Dave Rogers",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "text"      : "in",
+                                        "topic"     : {
+                                            "text"  : "News",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "date"  : {
+                                            "date-read" : "Jun 14",
+                                            "titik"     : "•",
+                                            "des-date"  : "3 min read",
+                                            "icon"      : "icon-star2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "number"    : "02",
+                                    "judul"     : {
+                                        "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                        "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                    },
+                                    "description"   : {
+                                        "aktor"     : {
+                                            "name"  : "Dave Rogers",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "text"      : "in",
+                                        "topic"     : {
+                                            "text"  : "News",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "date"  : {
+                                            "date-read" : "Jun 14",
+                                            "titik"     : "•",
+                                            "des-date"  : "3 min read",
+                                            "icon"      : "icon-star2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "number"    : "03",
+                                    "judul"     : {
+                                        "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                        "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                    },
+                                    "description"   : {
+                                        "aktor"     : {
+                                            "name"  : "Dave Rogers",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "text"      : "in",
+                                        "topic"     : {
+                                            "text"  : "News",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "date"  : {
+                                            "date-read" : "Jun 14",
+                                            "titik"     : "•",
+                                            "des-date"  : "3 min read",
+                                            "icon"      : "icon-star2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "number"    : "04",
+                                    "judul"     : {
+                                        "text"  : "News Needs to Meet Its Audiences Where They Are",
+                                        "href"  : "https://preview.colorlib.com/theme/meranda/blog-single.html"
+                                    },
+                                    "description"   : {
+                                        "aktor"     : {
+                                            "name"  : "Dave Rogers",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "text"      : "in",
+                                        "topic"     : {
+                                            "text"  : "News",
+                                            "href"  : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                        },
+                                        "date"  : {
+                                            "date-read" : "Jun 14",
+                                            "titik"     : "•",
+                                            "des-date"  : "3 min read",
+                                            "icon"      : "icon-star2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "button-text"   : {
+                                        "text"      : "SEE ALL TRENDS",
+                                        "icon"      : "icon-keyboard_arrow_right",
+                                        "href"      : "https://preview.colorlib.com/theme/meranda/index.html#"
+                                    }
+                                }   
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "email-subscribe"   : [
+                {
+                    "kiri"  : {
+                        "judul" : "Newsletter Subcribe",
+                        "descripsi" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aspernatur ut at quae omnis pariatur obcaecati possimus nisi ea iste!"
+                    },
+                    "kanan" : [
+                        {
+                            "type"          : "email-box-send",
+                            "placeholder"   : "Enter your email"
+                        },
+                        {
+                            "type"      : "button",
+                            "icon-name" : "icon-paper-plane"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "footer"    : [
+        {
+            "text"  : {
+                "paragraf"  : {
+                    "text1" : "Copyright © 2022 All rights reserved | This template is made with ",
+                    "icon-name" : "icon-heart text-danger",
+                    "text2" : "by",
+                    "template"  : {
+                        "text"  : "Colorlib",
+                        "href"  : "https://colorlib.com/"
+                    }
+                }
+            }
+        }
+    ]
+}

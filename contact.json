@@ -1,0 +1,138 @@
+{
+    "header"    : [
+        {
+            "top"   : [
+                {
+                    "logo"  : {
+                        "text"  : "Meranda",
+                        "href"  : "index.html"
+                    }
+                },
+                {
+                    "facebook"  : {
+                        "icon-name" : "icon-facebook",
+                        "href"      : "https://facebook.com/meranda/"
+                    },
+                    "twitter"   : {
+                        "icon-name" : "icon-twitter",
+                        "href"      : "https://twitter.com/meranda/"
+                    },
+                    "instagram" : {
+                        "icon-name" : "icon-instagram",
+                        "href"      : "https://instagram.com/meranda/"
+                    }
+                },
+                {
+                    "email" : [
+                        {
+                            "type"          : "email-box-search",
+                            "placeholder"   : "Search.."
+                        },
+                        {
+                            "type"      : "button-search-email",
+                            "icon-name" : "icon-search"
+                        }
+                    ]
+                }
+
+            ],
+            "main"  : [
+                {
+                    "home"  : {
+                        "text"  : "HOME",
+                        "href"  : "index.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/index.html"
+                    },
+                    "categories": {
+                        "text"  : "CATEGORIES",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "politics": {
+                        "text"  : "POLITICS",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "business": {
+                        "text"  : "BUSINESS",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "health": {
+                        "text"  : "HEALTH",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "design": {
+                        "text"  : "DESIGN",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "sport": {
+                        "text"  : "SPORT",
+                        "href"  : "categories.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/categories.html"
+                    },
+                    "contact": {
+                        "text"  : "CONTACT",
+                        "href"  : "contact.html",
+                        "link"  : "https://preview.colorlib.com/theme/meranda/contact.html"
+                    }
+                }
+            ]
+        }
+    ],
+    "body"  : {
+        "contact us"    : [
+            {
+                "kiri"  : [
+                    {
+                        "text"  : "First Name",
+                        "type"  : "input-text-box"
+                    },
+                    {
+                        "text"  : "Email Address",
+                        "type"  : "input-text-box"
+                    }
+                ],
+                "kanan" : [
+                    {
+                        "text"  : "Last Name",
+                        "type"  : "input-text-box"
+                    },
+                    {
+                        "text"  : "Tel. Number",
+                        "type"  : "input-text-box"
+                    }
+                ]
+            },
+            {
+                "message"   : {
+                    "text"  : "Message",
+                    "type"  : "input-text-box"
+                }
+            },
+            {
+                "button"    : {
+                    "text"  : "SEND MESSAGE",
+                    "href"  : "https://preview.colorlib.com/theme/meranda/contact.html"
+                }
+            }
+        ]
+    },
+    "footer"    : [
+        {
+            "text"  : {
+                "paragraf"  : {
+                    "text1" : "Copyright © 2022 All rights reserved | This template is made with ",
+                    "icon-name" : "icon-heart text-danger",
+                    "text2" : "by",
+                    "template"  : {
+                        "text"  : "Colorlib",
+                        "href"  : "https://colorlib.com/"
+                    }
+                }
+            }
+        }
+    ]
+}
